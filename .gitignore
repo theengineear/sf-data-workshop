@@ -1,0 +1,9 @@
+!notebooks/*
+bin/*
+include/*
+lib/*
+share/*
+.Python
+*.html
+*.json
+.ipynb_checkpoints/*
