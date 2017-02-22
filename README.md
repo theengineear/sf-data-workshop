@@ -1,5 +1,7 @@
 # Programmatic Data Visualization with Plotly in Python
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~theengineear/6021.embed"></iframe>
+
 ## Requirements
 
 For simplicity, I'll be running all of these notebooks in Python 2.7. However, all the packages support Python 3 just as well.
